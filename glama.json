@@ -1,1 +1,8 @@
-{"name": "MapOracle", "description": "Geolocation intelligence \u2014 12 MCP tools for geocoding, routing, places, elevation", "category": "travel", "tags": ["maps", "geocoding", "routing", "places"], "tools": 12, "transport": "streamable-http", "endpoint": "https://tooloracle.io/map/mcp/"}
+{
+  "name": "mapOracle",
+  "description": "Geolocation Intelligence \u2014 12 MCP tools for maps, geocoding, routes",
+  "repository": "https://github.com/ToolOracle/maporacle",
+  "endpoint": "https://tooloracle.io/map/mcp/",
+  "tools": 12,
+  "license": "MIT"
+}
